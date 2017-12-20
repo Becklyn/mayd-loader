@@ -1,5 +1,5 @@
 {
-    "name": "mayd-loader",
+    "name": "@becklyn/mayd-loader",
     "version": "0.0.1",
     "description": "A specialized loader for loading Mayd JS bundles.",
     "license": "BSD-3-Clause",
